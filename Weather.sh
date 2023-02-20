@@ -1,1 +1,1 @@
-alias='curl https://wttr.in/'
+curl https://wttr.in/
